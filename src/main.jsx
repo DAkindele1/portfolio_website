@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { createRoot } from 'react-dom/client';
-import { ArrowUpRight, BriefcaseBusiness, Download, ExternalLink, Mail, Menu, X } from 'lucide-react';
+import { ArrowUpRight, BriefcaseBusiness, Download, Mail, Menu, X } from 'lucide-react';
 import './styles.css';
 
 const navItems = [
@@ -116,7 +116,7 @@ function App() {
           <div className="contact-content"><p className="eyebrow">Have a project in mind?</p><h2>Let's make something<br /><em>worth talking about.</em></h2><a className="contact-email" href="mailto:akindeledavid976@gmail.com">akindeledavid976@gmail.com <ArrowUpRight size={23} /></a><div className="contact-meta"><a href="tel:+2348146346913">0814 634 6913</a><span>Lagos, Nigeria</span><a href="#home">Back to top ↑</a></div></div>
         </section>
       </main>
-      <footer><span>© 2026 Akindele Oluwasegun David</span><span>Designed & built with intention.</span><div className="socials"><a aria-label="Professional profile" href="#contact"><ExternalLink size={17} /></a><a aria-label="Email" href="mailto:akindeledavid976@gmail.com"><Mail size={17} /></a><a aria-label="Download CV" href="#contact"><Download size={17} /></a></div></footer>
+      <footer><span>© 2026 Akindele Oluwasegun David</span><span>Designed & built with intention.</span><div className="socials"><a aria-label="Email" href="mailto:akindeledavid976@gmail.com"><Mail size={17} /></a><a aria-label="Download CV" href="/AKINDELE%20OLUWASEGUN%20updated.docx" download="Akindele-Oluwasegun-David-CV.docx"><Download size={17} /></a></div></footer>
     </div>
   );
 }
