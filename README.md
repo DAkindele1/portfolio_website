@@ -81,3 +81,6 @@ Update the content and links in `src/main.jsx`. Visual styles, spacing, colors, 
 - Email: akindeledavid976@gmail.com
 - Location: Lagos, Nigeria
 
+## Submission Details
+Name: David Oluwasegun Akindele
+Matriculation Number: 23120112008
