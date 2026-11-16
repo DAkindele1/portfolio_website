@@ -82,5 +82,5 @@ Update the content and links in `src/main.jsx`. Visual styles, spacing, colors, 
 - Location: Lagos, Nigeria
 
 ## Submission Details
-Name: David Oluwasegun Akindele
-Matriculation Number: 23120112008
+- Name: David Oluwasegun Akindele
+- Matriculation Number: 23120112008
